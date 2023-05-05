@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hide{
+    display: none;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+main{
+    background-color: white;
+    text-align: center;
+    padding: 6.4rem ;
+}
+
+body{
+    background: linear-gradient(45deg, #190361 0%, #BB00FF 100%);
+
+    font-size: 1.6rem;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.4rem;
+    margin-bottom: 1.4rem;
+}
+
+p{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+    margin-bottom: 2.0rem;
+    
+}
+
+a{
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 2.4rem;
+}
+
